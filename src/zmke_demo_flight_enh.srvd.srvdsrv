@@ -1,0 +1,4 @@
+@EndUserText.label: 'enhanced demo flights overview'
+define service ZMKE_DEMO_FLIGHT_ENH {
+  expose ZMKE_C_DEMO_FLIGHT_ENH;
+}

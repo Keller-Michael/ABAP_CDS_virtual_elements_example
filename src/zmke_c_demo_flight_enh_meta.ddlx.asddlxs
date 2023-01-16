@@ -1,0 +1,9 @@
+@Metadata.layer: #CORE
+@Search.searchable: true
+annotate view ZMKE_C_DEMO_FLIGHT_ENH with
+{
+  @Search.defaultSearchElement: true
+  CarrierId;
+  @Search.defaultSearchElement: true
+  ConnectionId;
+}

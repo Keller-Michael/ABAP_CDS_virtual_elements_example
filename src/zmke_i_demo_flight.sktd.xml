@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SKTD" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <KTD_OBJECT>
+    <NAME>ZMKE_I_DEMO_FLIGHT</NAME>
+    <TYPE>GENERAL_TEXT</TYPE>
+    <SOURCE_CONTENT_TYPE>02</SOURCE_CONTENT_TYPE>
+    <REF_OBJ_TYPE>DDLS</REF_OBJ_TYPE>
+    <REF_OBJ_NAME>ZMKE_I_DEMO_FLIGHT</REF_OBJ_NAME>
+    <ABAP_LANGUAGE_VERSION>X</ABAP_LANGUAGE_VERSION>
+    <CONTENT>
+     <item>
+      <NAME>ZMKE_I_DEMO_FLIGHT</NAME>
+      <LANGU>E</LANGU>
+      <COMPONENT_UUID>ps5IxJQnHt2i2pCR880NAQ==</COMPONENT_UUID>
+      <SOURCE_CONTENT>Q0RTIHRvIGFjY2VzcyBkYXRhYmFzZSB0YWJsZSAvRE1PL0ZMSUdIVC4=</SOURCE_CONTENT>
+     </item>
+    </CONTENT>
+   </KTD_OBJECT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
